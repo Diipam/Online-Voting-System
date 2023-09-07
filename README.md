@@ -1,13 +1,7 @@
 # E - Voting Created Using Django
 
-This E - Voting System Was Developed With Django(Python Framework).
-Feel free to make changes based on your requirements.
-
-If you like this project, then ADD a STAR ⭐️ to this project 👆
-
+This project is created for my 6th semester final year project. This project when successful was a huge boast in my journey as a software engineer. Feel free to message me via gmail or social media to fix your error and handling other stuff or meet me in NCIT college.
 This Voting System web application built using Django can serve as the automated voting system for organizations and/or institutions. The system works like the common election manual system of voting whereas the system must be populated by the list of the positions, candidates, and voters. The E-voting system can help a certain organization or school to minimize the voting time duration because aside providing the voters an online platform to vote, the system will automatically count the votes for each candidate. The system has 2 sides of the user interface which are the administrator and voters side. The admin user is in charge to populate and manage the data of the system and the voter side which is where the voters will choose their candidate and submit their votes.
-
-[Front-end Template](http://adminlte.io "Admin LTE.io")
 
 ## Features:
 
@@ -79,12 +73,6 @@ For Mac
 $  python3 -m venv venv
 ```
 
-For Linux
-
-```
-$  virtualenv .
-```
-
 Activate Virtual Environment
 
 For Windows
@@ -97,12 +85,6 @@ For Mac
 
 ```
 $  source venv/bin/activate
-```
-
-For Linux
-
-```
-$  source bin/activate
 ```
 
 Then, Enter the project
@@ -135,12 +117,6 @@ Command for Mac:
 $ python3 manage.py runserver
 ```
 
-Command for Linux:
-
-```python
-$ python3 manage.py runserver
-```
-
 **7. Login Credentials**
 
 Create Super User (HOD)
@@ -158,9 +134,7 @@ $  python3 manage.py createsuperuser
 
 Command for Linux:
 
-```
-$  python3 manage.py createsuperuser
-```
+
 
 Then Add Email and Password
 
@@ -191,6 +165,5 @@ Same OTP is sent to voters
 
 Yeah. Pull requests are welcomed.
 
-## Having any issue using this ?
 
-Please, let us know. Open up an issue.
+
