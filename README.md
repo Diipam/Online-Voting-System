@@ -40,45 +40,6 @@ This Voting System web application built using Django can serve as the automated
 4. Votes for their favourite candidates
 5. View candidates they voted for
 
-## 📸 ScreenShots
-
-<figure>
-  <img
-  src="ss/DB.png"
-  alt="The beautiful MDN logo.">
-  <figcaption>Database Design</figcaption>
-</figure>
-
-| Admin                                   | Voter                                   |
-| --------------------------------------- | --------------------------------------- |
-| <img src="ss/admin/1.png" width="400">  | <img src="ss/voter/1.png" width="400">  |
-| <img src="ss/admin/2.png" width="400">  | <img src="ss/voter/2.png" width="400">  |
-| <img src="ss/admin/3.png" width="400">  | <img src="ss/voter/3.png" width="400">  |
-| <img src="ss/admin/4.png" width="400">  | <img src="ss/voter/4.png" width="400">  |
-| <img src="ss/admin/5.png" width="400">  | <img src="ss/voter/5.png" width="400">  |
-| <img src="ss/admin/6.png" width="400">  | <img src="ss/voter/6.png" width="400">  |
-| <img src="ss/admin/7.png" width="400">  | <img src="ss/voter/7.png" width="400">  |
-| <img src="ss/admin/8.png" width="400">  | <img src="ss/voter/8.png" width="400">  |
-| <img src="ss/admin/9.png" width="400">  | <img src="ss/voter/9.png" width="400">  |
-| <img src="ss/admin/10.png" width="400"> | <img src="ss/voter/10.png" width="400"> |
-| <img src="ss/admin/11.png" width="400"> | <img src="ss/voter/11.png" width="400"> |
-| <img src="ss/admin/12.png" width="400"> | <img src="ss/voter/12.png" width="400"> |
-| <img src="ss/admin/13.png" width="400"> | <img src="ss/voter/13.png" width="400"> |
-| <img src="ss/admin/14.png" width="400"> | <img src="ss/voter/14.png" width="400"> |
-| <img src="ss/admin/15.png" width="400"> | ------- ------ ------ ------            |
-| <img src="ss/admin/16.png" width="400"> | ------- ------ ------ ------            |
-| <img src="ss/admin/17.png" width="400"> | ------- ------ ------ ------            |
-| <img src="ss/admin/18.png" width="400"> | ------- ------ ------ ------            |
-
-## Support Developer
-
-1. Add a Star 🌟 to this 👆 Repository
-2. Follow on Twitter/Github
-
-## Passport/Images
-
-Images are from [Unsplash](https://unsplash.com)
-
 ### Pre-Requisites:
 
 1. Install Git Version Control
